@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Youssef Mohammed, and I'm a Front-end Developer from Egypt.</p>
+<p align="left">My name is Youssef Mohammed, and I'm a Full-Stack Developer from Egypt.</p>
 
 ###
 
@@ -13,7 +13,6 @@
 <p align="left">
 ✨ Creating bugs since 2021<br>
 📚 I'm currently studying at the Faculty of Computer Science, Mansoura University (2023 - 2027)<br>
-🎯 Goals: To become a full-stack developer and build impactful web applications<br>
 🎲 Fun fact: I love solving problems and optimizing performance in my projects
 </p>
 
@@ -61,8 +60,6 @@
 - **Slack Clone** - A Slack-like communication platform with workspace management.
   - 🔗 [Repo](https://github.com/YoussefMohammed93/Slack-Clone) | [Live Demo](https://slack-clone-matrix.vercel.app)
   
-- **Portfolio** - Showcasing my work and skills.
-  - 🔗 [Live Demo](https://youssef-portfolio-matrix.vercel.app)
 
 ###
 
@@ -81,5 +78,4 @@
 ###
 
 📧 ixyoussef46@gmail.com  
-📍 Mansoura, Egypt  
-🔗 [GitHub](https://github.com/YoussefMohammed93)
+📍 Mansoura, Dakahlia, Egypt  
