@@ -1,81 +1,140 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# 👋 Hi, I'm Youssef Mohammed
 
-<p align="left">My name is Youssef Mohammed, and I'm a Full-Stack Developer from Egypt.</p>
+### Frontend Developer | React & Next.js Specialist
 
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matrix-dev-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohammed-6893a031b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmohammed2093@gmail.com)
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Creating bugs since 2021<br>
-📚 I'm currently studying at the Faculty of Computer Science, Mansoura University (2023 - 2027)<br>
-🎲 Fun fact: I love solving problems and optimizing performance in my projects
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-###
+---
 
-<h2 align="left">Projects</h2>
+## 👨‍💻 About Me
 
-###
+Passionate **Frontend Developer** with 3+ years of experience building modern, responsive web applications. Currently pursuing a Bachelor's in Computer Science at Mansoura University (2023-2027).
 
-- **Matbook** - A full-stack social media website with 30+ features.
-  - 🔗 [Repo](https://github.com/YoussefMohammed93/Matbook) | [Live Demo](https://matbook-matrix.vercel.app)
-  
-- **Slack Clone** - A Slack-like communication platform with workspace management.
-  - 🔗 [Repo](https://github.com/YoussefMohammed93/Slack-Clone) | [Live Demo](https://slack-clone-matrix.vercel.app)
-  
+- 🚀 Delivered **35+ production-ready websites** for companies and small businesses
+- 💼 Former **Frontend Head** at IEEE Mansoura Computer Society Chapter
+- 🎯 Specialized in React.js, Next.js, TypeScript, and modern frontend technologies
+- 🌱 Strong advocate for web accessibility (WCAG), performance optimization, and clean code
+- 📍 Based in Mansoura, Egypt
 
-###
+---
 
-<h2 align="left">Languages</h2>
+## 🛠️ Tech Stack
 
-###
+### Frontend Technologies
+```text
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js
+Redux Toolkit • TanStack Query • React Hook Form • Zod • Zustand
+```
 
-- 🇪🇬 Arabic (Native)
-- 🇬🇧 English (B2)
-- 🇩🇪 German (A1)
+### Styling & UI
+```text
+Tailwind CSS • Bootstrap • Shadcn UI • Material UI • Sass
+Framer Motion • Three.js • GSAP • Responsive Design
+```
 
-###
+### Tools & Workflow
+```text
+Git • GitHub • VS Code • Cursor AI • npm • pnpm • Vite
+Postman • Figma • Notion • ClickUp • Docker • Vercel
+ESLint • Prettier • Chrome DevTools • Lighthouse
+```
 
-<h2 align="left">Get in Touch</h2>
+### Core Competencies
+```text
+Web Accessibility (WCAG) • Performance Optimization • Cross-browser Compatibility
+Mobile-First Design • SEO Best Practices • Component-driven Architecture
+```
 
-###
+---
 
-📧 ixyoussef46@gmail.com  
-📍 Mansoura, Dakahlia, Egypt  
+## 💼 Professional Experience
+
+**Frontend Head** | IEEE Mansoura Computer Society Chapter (Mar 2024 - Dec 2024)
+- Led and mentored 20+ students in modern frontend technologies
+- Designed and developed the official chapter website: [ieeemansb.org](https://ieeemansb.org)
+- Implemented modern UI/UX with performance optimization and accessibility standards
+
+**Freelance Frontend Developer** | Self-Employed (2023 - Present)
+- Developed 35+ responsive, high-performance websites across various industries
+- Ensured cross-browser compatibility and WCAG accessibility standards
+- Collaborated with clients to deliver solutions on time and within scope
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Linkup** | Full-stack social media platform with authentication and real-time updates | React, Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/YoussefMohammed93) |
+| **Taskmate** | Comprehensive task management system with CRUD operations | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
+| **Frontend Hub** | Developer learning platform with organized technical content | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
+| **Notion Clone** | Full-featured note-taking app with real-time updates | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
+| **Slack Clone** | Team communication platform with workspace management | React, Next.js, TypeScript, Convex | [GitHub](https://github.com/YoussefMohammed93) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohammed93&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohammed93&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMohammed93&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Achievements
+
+🎓 **Bachelor of Computer Science** | Mansoura University (2023-2027)
+
+🏅 **Achievements:**
+- 🥉 5th Place - DevFest Mansoura Hackathon 2024 (GDG Delta)
+- 💻 Frontend Developer - Open Source IEEE Web Project (Aug 2024)
+- 🎤 PR/FR Member - CIS Student Activity (May 2024 - Mar 2025)
+
+---
+
+## 🌐 Languages
+
+- 🇪🇬 **Arabic** - Native
+- 🇬🇧 **English** - Professional Working Proficiency (B2)
+- 🇩🇪 **German** - Basic (A1)
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4CAF50?style=for-the-badge)](https://matrix-dev-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-mohammed-6893a031b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YoussefMohammed93)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:youssefmohammed2093@gmail.com)
+
+📍 Mansoura, Egypt | 📞 +20 106 265 8632
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Passionate about building accessible, high-performance web applications that make a difference"
+
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefMohammed93&color=blueviolet&style=flat-square)
+
+</div>
