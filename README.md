@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Youssef Mohammed
 
-### Frontend Developer | React & Next.js Specialist
+### Full-Stack MERN Developer | React & Next.js Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matrix-dev-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youssef-mohammed-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohammed-6893a031b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmohammed2093@gmail.com)
 
@@ -14,12 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Passionate **Frontend Developer** with 3+ years of experience building modern, responsive web applications. Currently pursuing a Bachelor's in Computer Science at Mansoura University (2023-2027).
+Passionate **Full-Stack MERN Developer** with 3+ years of experience building modern, scalable web applications — from pixel-perfect frontends to robust backends. Currently pursuing a Bachelor's in Computer Science at Mansoura University (2023-2027).
 
-- 🚀 Delivered **35+ production-ready websites** for companies and small businesses
+- 🚀 Delivered **45+ production-ready websites** for companies and clients worldwide
+- 🌍 Worked with **17+ clients** across the globe
 - 💼 Former **Frontend Head** at IEEE Mansoura Computer Society Chapter
-- 🎯 Specialized in React.js, Next.js, TypeScript, and modern frontend technologies
-- 🌱 Strong advocate for web accessibility (WCAG), performance optimization, and clean code
+- 🎯 Specialized in React.js, Next.js, Node.js, Express.js, and MongoDB
+- 🌱 Strong advocate for web accessibility (WCAG), performance optimization, and clean architecture
 - 📍 Based in Mansoura, Egypt
 
 ---
@@ -34,19 +35,26 @@ Redux Toolkit • TanStack Query • React Hook Form • Zod • Zustand
 
 ### Styling & UI
 ```text
-Tailwind CSS • Bootstrap • Shadcn UI • Material UI • Sass
-Framer Motion • Three.js • GSAP • Responsive Design
+Tailwind CSS • Shadcn UI • Bootstrap • Material UI • Sass
+Framer Motion • Three.js • GSAP • Lenis • Responsive Design
+```
+
+### Backend & Database
+```text
+Node.js • Express.js • MongoDB • Mongoose • PostgreSQL • Prisma
+RESTful APIs • JWT Authentication • WebSockets • Convex
 ```
 
 ### Tools & Workflow
 ```text
 Git • GitHub • VS Code • Cursor AI • npm • pnpm • Vite
-Postman • Figma • Notion • ClickUp • Docker • Vercel
+Postman • Figma • Notion • Docker • Vercel • Netlify
 ESLint • Prettier • Chrome DevTools • Lighthouse
 ```
 
 ### Core Competencies
 ```text
+Full-Stack Architecture • RESTful API Design • Database Schema Design
 Web Accessibility (WCAG) • Performance Optimization • Cross-browser Compatibility
 Mobile-First Design • SEO Best Practices • Component-driven Architecture
 ```
@@ -55,15 +63,22 @@ Mobile-First Design • SEO Best Practices • Component-driven Architecture
 
 ## 💼 Professional Experience
 
+**MERN Stack Developer** | Freelance (2025 - Present)
+- Architected and delivered 12+ full-stack MERN applications from scratch to deployment
+- Designed secure RESTful APIs with Node.js and Express, implementing JWT authentication
+- Optimized database schemas using MongoDB and Mongoose for rapid data retrieval
+- Integrated third-party services, WebSockets for real-time features, and comprehensive error handling
+
+**Frontend Developer** | Freelance (2024 - Present)
+- Delivered 30+ real-world projects for clients worldwide
+- Built full-stack e-commerce platforms with payment integration (Stripe)
+- Developed responsive dashboards, admin panels, and mobile applications using React Native
+- Implemented modern UI/UX with animations and micro-interactions
+
 **Frontend Head** | IEEE Mansoura Computer Society Chapter (Mar 2024 - Dec 2024)
 - Led and mentored 20+ students in modern frontend technologies
 - Designed and developed the official chapter website: [ieeemansb.org](https://ieeemansb.org)
 - Implemented modern UI/UX with performance optimization and accessibility standards
-
-**Freelance Frontend Developer** | Self-Employed (2023 - Present)
-- Developed 35+ responsive, high-performance websites across various industries
-- Ensured cross-browser compatibility and WCAG accessibility standards
-- Collaborated with clients to deliver solutions on time and within scope
 
 ---
 
@@ -73,11 +88,12 @@ Mobile-First Design • SEO Best Practices • Component-driven Architecture
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Linkup** | Full-stack social media platform with authentication and real-time updates | React, Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/YoussefMohammed93) |
-| **Taskmate** | Comprehensive task management system with CRUD operations | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
-| **Frontend Hub** | Developer learning platform with organized technical content | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
-| **Notion Clone** | Full-featured note-taking app with real-time updates | React, Next.js, TypeScript | [GitHub](https://github.com/YoussefMohammed93) |
-| **Slack Clone** | Team communication platform with workspace management | React, Next.js, TypeScript, Convex | [GitHub](https://github.com/YoussefMohammed93) |
+| **V-Quiz** | AI-powered learning platform that transforms any topic into quizzes and flashcards using Google Gemini | Next.js, TypeScript, Convex, Clerk, Gemini AI, Tailwind CSS | [Live](https://v-quiz-demo.vercel.app) · [GitHub](https://github.com/YoussefMohammed93/V-QUIZ) |
+| **Tasawoq** | Full-featured e-commerce app with Stripe checkout, PDF invoices, delivery maps, and drag-and-drop admin dashboard | Next.js 15, React 19, TypeScript, Tailwind v4, Convex, Clerk, Stripe | [Live](https://tasawoq.netlify.app) |
+| **Linkup** | Social media platform with authentication, post creation, and real-time updates | React, Next.js, TypeScript, Tailwind CSS | [Live](https://linkup-pi.vercel.app) · [GitHub](https://github.com/YoussefMohammed93/Linkup) |
+| **Taskmate** | Comprehensive task management app with CRUD operations and real-time updates | React, Next.js, TypeScript | [Live](https://taskmate-delta.vercel.app) · [GitHub](https://github.com/YoussefMohammed93/Taskmate) |
+| **Frontend Hub** | Developer learning platform with organized technical content | React, Next.js, TypeScript, Convex | [Live](https://frontend-hub-xi.vercel.app) · [GitHub](https://github.com/YoussefMohammed93/Frontend-Hub) |
+| **Notion Clone** | Full-featured note-taking app with real-time updates and user authentication | Next.js, TypeScript, Convex, Tailwind CSS | [Live](https://notion-clone-matrix.vercel.app) · [GitHub](https://github.com/YoussefMohammed93/Notion-Clone) |
 
 </div>
 
@@ -120,9 +136,10 @@ Mobile-First Design • SEO Best Practices • Component-driven Architecture
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4CAF50?style=for-the-badge)](https://matrix-dev-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4CAF50?style=for-the-badge)](https://youssef-mohammed-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-mohammed-6893a031b)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YoussefMohammed93)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+201062658632)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:youssefmohammed2093@gmail.com)
 
 📍 Mansoura, Egypt | 📞 +20 106 265 8632
